@@ -47,8 +47,8 @@ DonationTab:Input({
     Title = "Value",
     Placeholder = "Ej: 100",
     Callback = function(text)
-        WindUI:Notify({ Title = "Donation", Content = "Sistema bloqueado", Duration = 2 })
+        WindUI:Notify({ Title = "👑Credits", Content = "4gnx", Duration = 4 })
     end
 })
 
-WindUI:Notify({ Title = "GnsysHub Zz", Content = "Fake Donation System", Duration = 3 })
+WindUI:Notify({ Title = "GnsysHub Zz", Content = "🚀Welcome to  GnsysHub Zz | Pls Donation", Duration = 4 })
